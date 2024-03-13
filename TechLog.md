@@ -5,3 +5,5 @@ emable Compute engine API in new project
 ran into an issue there is no available custome image, emailed shawn for help
 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/dc8d6a63-0c1e-46cf-9437-e4870250c077)
+
+finished watching part 2 video while wating for email from shawn
