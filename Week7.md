@@ -25,3 +25,19 @@ an issue with the arcgis/manager saying thee is no administrative access and so 
 opened arcGIS Pro and made a new arcgis server connection using the site admin login and the external IP adress
 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/f8afb2a2-40f5-437d-bf58-ec95a4e1f3aa)
+
+ REst point URL:  https://34.132.188.133:6443/arcgis/rest/services/SampleWorldCities/MapServer
+
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/7b932069-cae3-49b8-b0f9-d0df421f89e2)
+
+
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/a686b82f-3ac5-45f8-9608-ce3f52932396)
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/6b3d6b97-1cb8-48c0-805f-0f2a841b5df5)
+
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/aedf4de7-ba61-490b-bd43-7796b2b46ec6)
+
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/e033eab0-9534-4b80-afc4-987984b6a994)
+
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/ee26cdd3-7e84-49b9-8b47-ccae04aacc7e)
+
+
