@@ -1,3 +1,8 @@
+In order to start this log and have it formated the way i wanted i had to find out how to format .md documents using this link i was able to find out how to change the formating:
+>https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+this log is meant to be a log of activies done during the GEOM 99 Group project
+
 # Problem statement
 Changes I made to the probelm statement that were then later changed again as a group effort
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/19249cd2-41bb-4d6e-8f47-6183c1eeb302)
