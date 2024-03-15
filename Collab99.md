@@ -18,6 +18,7 @@ Revised Problem statement by me:
 > https://opendata.ajax.ca/datasets/TownofAjax::town-trees/explore?location=43.866323%2C-79.023600%2C13.91&showTable=true
 this tree data set has the location of the trees as a coordinate system and also has it as a location like residential and alsos status removed or tee. this will be helpful to be able to tell which tree is owned by city and which are in peopls yards. there is an allowance around all sidewalks where the trees on peoples lawns are city trees. to keep people from cutting down city trees and getting ifned for it this application/dashboard will make the public aware of which trees are their property and which trees are city property.
 # Location map for Kawartha Lakes
+if we end up using kawartha lakes nad no ajax use these links
 https://open-data-kawartha.hub.arcgis.com/search?tags=boundary%2Cboundaries
 >link to open source data
 Also Found like to aerial imagery for kawartha lakes though i dont know how relevant it will be
