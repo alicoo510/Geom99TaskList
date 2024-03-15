@@ -1,3 +1,4 @@
+# Week 7 checklist Virtual Machine
 Created a new project for google cloud engine:project name and number which is unique to my project https://console.cloud.google.com/compute/instances?project=intrepid-league-417113
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/55d9daaf-8426-4b47-8a00-09884aa27df9)
 
@@ -10,16 +11,18 @@ finished watching part 2 video while wating for email from shawn
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/1791cc92-7579-4d3a-b078-65f6ae7f21fa)
 
 made an instance using Shawns ArcGIS Server and a boot disk custome image and changing the firewall traffic
-create firwall rule using the correct IP for the fleming college computers, ingress, and the ttc port 444. giving the rule a name:flemingrdp444.
-enter student Username and passward to get computer running.
+- create firwall rule using the correct IP for the fleming college computers, ingress, and the ttc port 444. giving the rule a name:flemingrdp444.
+- enter student Username and passward to get computer running. Saved Password to a notpad document in _webDEV folder
 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/0b4fa3e3-fb67-40a4-86ec-e93b6333c545)
+Made sure there was connection when this blue screen shows it indicated it is using the external IP address to talk to server
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/42eb8587-e5d2-4471-8329-25098b0402b0)
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/98fcff27-4720-4b26-9914-6a8648373d02)
 
-an issue with the arcgis/manager saying thee is no administrative access and so went back to firewall rule and edited to add in port 6443 and 6080 along with the 444 which was already there, then go in to remote desktop to create rule and enter ports so they are talking toeachother to get manager to work with the secure internal 6443 port
+an issue with the arcgis/manager saying there is no administrative access and so went back to firewall rule and edited to add in port 6443 and 6080 along with the 444 which was already there, then go in to remote desktop to create rule and enter ports so they are talking toeachother to get manager to work with the secure internal 6443 port
 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/9e3868c3-8183-49b3-92ad-b61723adf051)
+
 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/3c9554a7-967d-4239-816f-ba98908ec221)
 
@@ -27,7 +30,7 @@ opened arcGIS Pro and made a new arcgis server connection using the site admin l
 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/f8afb2a2-40f5-437d-bf58-ec95a4e1f3aa)
 
- REst point URL:  https://34.132.188.133:6443/arcgis/rest/services/SampleWorldCities/MapServer
+ Rest point URL:  https://34.132.188.133:6443/arcgis/rest/services/SampleWorldCities/MapServer
 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/7b932069-cae3-49b8-b0f9-d0df421f89e2)
 
