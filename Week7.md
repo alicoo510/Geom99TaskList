@@ -7,6 +7,7 @@ ran into an issue there is no available custome image, emailed shawn for help
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/dc8d6a63-0c1e-46cf-9437-e4870250c077)
 
 finished watching part 2 video while wating for email from shawn
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/1791cc92-7579-4d3a-b078-65f6ae7f21fa)
 
 made an instance using Shawns ArcGIS Server and a boot disk custome image and changing the firewall traffic
 create firwall rule using the correct IP for the fleming college computers, ingress, and the ttc port 444. giving the rule a name:flemingrdp444.
