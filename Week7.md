@@ -45,3 +45,8 @@ opened arcGIS Pro and made a new arcgis server connection using the site admin l
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/ee26cdd3-7e84-49b9-8b47-ccae04aacc7e)
 
 
+# Read over articles in week 7 checklist
+https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm
+
+https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm
+
