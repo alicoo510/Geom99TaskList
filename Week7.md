@@ -41,6 +41,7 @@ opened arcGIS Pro and made a new arcgis server connection using the site admin l
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/aedf4de7-ba61-490b-bd43-7796b2b46ec6)
 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/e033eab0-9534-4b80-afc4-987984b6a994)
+- forgot to change security settings on Virtual machine to allow the file to be shared over into arc Pro, has to go into 
 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/ee26cdd3-7e84-49b9-8b47-ccae04aacc7e)
 
