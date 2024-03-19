@@ -1,9 +1,10 @@
 # Week Nine Checklist Log
 ## the things accomplished on this page are done duriong week 10 and 11
-
+````
 Goals 
 - Ensure i use three application that cover the three tiers , Web, middle, and data store
--   Link to help  understand the differnt tiers https://www.ibm.com/topics/three-tier-architecture
+- Link to help  understand the differnt tiers https://www.ibm.com/topics/three-tier-architecture
+````
 ## Dashboard Application 
 best used to show geographical informationand also showing a level of statistical analysis and detailed information one can not get from just looking at a map alone
 - https://fleming.maps.arcgis.com/apps/dashboards/5bce05faa9e9406ba7e34cc6987d3c6a
