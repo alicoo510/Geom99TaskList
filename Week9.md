@@ -25,4 +25,11 @@ There is noway i can find to make a Hub i cant get into the initiative part of t
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/1c6576fb-e5f1-4919-80f7-ca3f57a036b5)
 I need this webpage not the fleming hub i need the initiative page 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/0e4fabc4-e25c-4b34-866a-a431b2837b73)
+>to try and get to the sme page as what every tutorial video a documentation are saying it gives this error when using the same URL i either dont have ability to make a Hub or it has been moved ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/e9c29e7b-f367-4e56-a8d9-5b8c74b812b2)
 
+# Field Maps 
+>"ArcGIS Field Maps is the go-to app for viewing maps, collecting data, performing inspections, sharing location, and providing situational awareness in the field"
+https://www.esri.com/arcgis-blog/products/field-maps/field-mobility/get-to-know-arcgis-field-maps/
+Creating a DemoWeek9 with the feature layer Demo_Map
+Next build the form to collect infomration on the map, for this demo it will be a random set of questions jsu to see how they all work
+>![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/c11db063-ba68-4436-bcd7-a405ff98a030)
