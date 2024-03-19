@@ -33,3 +33,20 @@ https://www.esri.com/arcgis-blog/products/field-maps/field-mobility/get-to-know-
 Creating a DemoWeek9 with the feature layer Demo_Map
 Next build the form to collect infomration on the map, for this demo it will be a random set of questions jsu to see how they all work
 >![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/c11db063-ba68-4436-bcd7-a405ff98a030)
+
+there is a field maps and a field maps designer teo separate things for one purpose
+
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/d2edd672-9b10-4947-a4a7-6995452e4942)
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/a85c558f-26ef-4c5d-81e0-84f41dbb34a9)
+
+- Link to web map and feature layer :
+- https://fleming.maps.arcgis.com/home/item.html?id=5239e8d9417c4fd9b9368ae7555b2134
+- https://fleming.maps.arcgis.com/home/item.html?id=e99a44ed9dae4ab6b6ff81752e611cda
+  
+> Additional links to help with depolying nad other field map questions
+- https://doc.arcgis.com/en/field-maps/latest/prepare-maps/deploy-your-map.htm
+- https://doc.arcgis.com/en/field-maps/get-started/get-started.htm
+- https://www.esri.com/arcgis-blog/products/field-maps/field-mobility/get-to-know-arcgis-field-maps/
+- https://learn.arcgis.com/en/paths/try-data-collection/
+# GeoServer
+
