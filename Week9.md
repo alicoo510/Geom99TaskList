@@ -1,5 +1,5 @@
 # Week Nine Checklist Log
-## the things accomplished on this page are done duriong week 10 and 11
+## the things accomplished on this page are done during week 10 and 11
 ````
 Goals 
 - Ensure i use three application that cover the three tiers , Web, middle, and data store
@@ -52,4 +52,21 @@ there is a field maps and a field maps designer teo separate things for one purp
 - https://www.esri.com/arcgis-blog/products/field-maps/field-mobility/get-to-know-arcgis-field-maps/
 - https://learn.arcgis.com/en/paths/try-data-collection/
 # GeoServer
-
+## this is the middle tier
+website to the GeoServer to download and install
+````
+https://geoserver.org/
+````
+Shawns Playlist of youtube that has the steps to installing the server and TomCat which is a better more robust version and can be used better for the running of the server 
+````
+https://www.youtube.com/playlist?list=PLa8md6Vlz64JqOvr5P0Hua3LTVsmTpajF
+````
+GeoServers Github page with licensing and instal and documentation as well as more About Information 
+````
+https://github.com/geoserver/geoserver/blob/main/README.md
+````
+Users guide to GeoServer 
+````
+https://docs.geoserver.org/latest/en/user/
+````
+>![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/8972790b-f1b6-43fc-9ccc-38971e1e2ddf)
