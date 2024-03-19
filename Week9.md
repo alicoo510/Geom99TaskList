@@ -1,4 +1,5 @@
 # Week Nine Checklist Log
+## the things accomplished on this page are done duriong week 10 and 11
 
 Goals 
 - Ensure i use three application that cover the three tiers , Web, middle, and data store
