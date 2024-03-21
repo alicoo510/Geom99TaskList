@@ -99,6 +99,7 @@ this has the ability to create on a desk top a project file and data set before 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/4f72773f-60b9-4798-84a5-64e0e7baafe9)
 
 There are many features in this app for cartographic representation and would be very useful for tracking and updating data as there are also ways of edting data directly on the app. for a service for a municipality regarding any type of data (tree or sign or park data) this would be helpful.
+>Also because this app can also act offline it is ideal in situations where there is no access to internet
 
 
 
