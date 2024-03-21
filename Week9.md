@@ -41,6 +41,10 @@ there is a field maps and a field maps designer teo separate things for one purp
 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/d2edd672-9b10-4947-a4a7-6995452e4942)
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/a85c558f-26ef-4c5d-81e0-84f41dbb34a9)
+>can then see on the app the dot that was collected
+
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/6b57e7bc-973e-4cec-a69d-493f86532e5b)
+
 
 - Link to web map and feature layer :
 - https://fleming.maps.arcgis.com/home/item.html?id=5239e8d9417c4fd9b9368ae7555b2134
@@ -70,3 +74,36 @@ Users guide to GeoServer
 https://docs.geoserver.org/latest/en/user/
 ````
 >![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/8972790b-f1b6-43fc-9ccc-38971e1e2ddf)
+>
+# qField App
+## using outdoor data collection app 
+download onto phone 
+Read over how to on the website :https://docs.qfield.org/how-to/projects/
+
+>this link provides a full overview on how to use the app
+
+to make a project based on a previous map or data set there is a way to uplaod you own project into the application for this checklist i am just going to use one that is already installed on the app
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/65fcde2b-4aaf-4a94-8eed-d16abc9450d5)
+
+
+this has the ability to create on a desk top a project file and data set before uploading the zipped file into the app on a mobile device using an android API
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/9139b6d1-96c7-41d2-ab27-06d9b9835593)
+
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/196fbfb5-e127-4157-92d3-cddb873b5a8f)
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/c07f3a9b-2bb6-4b33-8ea5-4a70c7fb4017)
+
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/6a5a01b4-7a07-4f96-a506-6438afd48374)
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/e741d273-8bdc-4e37-b537-b1870210b1ea)
+
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/203318d8-9f55-468f-87a7-571e8f6c913a)
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/4f72773f-60b9-4798-84a5-64e0e7baafe9)
+
+There are many features in this app for cartographic representation and would be very useful for tracking and updating data as there are also ways of edting data directly on the app. for a service for a municipality regarding any type of data (tree or sign or park data) this would be helpful.
+
+
+
+
+
+
+
+
