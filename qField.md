@@ -1,5 +1,7 @@
 # Playing with qFields
 ## try to make your own project and upload onto the app on your phone
+this may be a good open source app to use if there was not available ESRi licenses for the project. for our collab though they have full esri licensing so i think i will stick to using more of the ArcGIS online applications like field maps or survey 123.
+
 Need to regester on lie to start with their qFiledCloud
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/ffc09da2-72ff-4677-a341-6300a523d3ed)
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/663f7fd0-fd73-422b-b747-024e771b505d)
