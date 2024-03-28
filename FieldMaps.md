@@ -44,5 +44,9 @@ for the map as well and the cymbol points which in the original map are red burs
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/9dae6cc7-e0bc-41c0-ae48-5e7270a4b165)
 
 
+## Publishing Options
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/db819c5b-8c87-4271-9f7c-0e51c8e98073)
+
+
 
 
