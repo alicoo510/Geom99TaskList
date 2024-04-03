@@ -28,7 +28,13 @@ https://open-data-kawartha.hub.arcgis.com/search?tags=boundary%2Cboundaries
 >link to open source data
 Also Found like to aerial imagery for kawartha lakes though i dont know how relevant it will be
 >https://open-data-kawartha.hub.arcgis.com/datasets/1ab8a822be0c47668e0e38d9e9aed64f/explore?location=44.210680%2C-78.345261%2C8.96
-
 ## group indecision
 We can not agree on how to word the problem statement, we ar not making a data collection app and I had mentioned it is not meant to be a data exploritory assignemnt but a web based application 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/3849e5b1-bf21-4f63-8ffc-be241f4f1e7c)
+
+
+# GitHub cloned repository 
+
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/74e31f0f-87a8-4581-9b80-395d338e8eea)
+
+
