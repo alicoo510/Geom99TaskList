@@ -37,4 +37,7 @@ We can not agree on how to word the problem statement, we ar not making a data c
 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/74e31f0f-87a8-4581-9b80-395d338e8eea)
 
+Added info for Filed maps and changed some responsive dwsgin aspects for the images
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/51d48d10-f158-4205-9693-bc52f6e93a23)
+
 
