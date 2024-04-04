@@ -47,6 +47,13 @@ for the map as well and the cymbol points which in the original map are red burs
 ## Publishing Options
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/db819c5b-8c87-4271-9f7c-0e51c8e98073)
 
+# Adding FieldMaps data to a Dashboard
+once the field map has a web layer created on arconline it is connected to the user through the field mas app on a device wich allows for the worker/user to 
+collect data whcih is then directly linked to the ArcOnline webmap. all of this data can then be uploaded into a Dashboard using the feature layer that is published on the webmap. once on the dashboard there are
+many ways of customizing and statistically analysing the data to suit the users needs in this case I have used  asruvey for dogs but in reality this application can and is used to collect city assets including but not limited to tree data culvert data, road data etc.
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/e6c057d9-2e3a-4185-9de1-753e1ec55bb1)
+
+
 
 
 
