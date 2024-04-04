@@ -9,3 +9,7 @@ by creating a map in arconline or arc pro and sharing the feature layer on arc o
 
 ## add in a button to a url link for access ing other websites or even to a dashboard
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/08850f8e-8e3d-4b12-97ca-c6daf8e140e8) 
+
+# to display certain attributes in the table you can change the place title and discription in this case showing the attached images for each survey entry
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/7104db9e-c998-4702-8381-8a4a9ed0dca8)
+
