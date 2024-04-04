@@ -56,7 +56,8 @@ many ways of customizing and statistically analysing the data to suit the users 
 There is functionality that allows the surrounds to change based on the view of the map and so the lists and statistics change to show what is visible on the map
 >![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/ef31410b-63a1-4914-b7d7-869bba56531c)
 
-## The changes made to the map on the web map on arconline also are updated on the story map to show the collected data
+## The changes made to the map on the web map on arconline also are updated on the story map to show the collected data https://github.com/alicoo510/Geom99TaskList/blob/main/StoryMaps.md
+
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/e335157a-a933-4990-9361-06d805192c26)
 
 
