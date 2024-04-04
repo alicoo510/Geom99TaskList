@@ -52,6 +52,8 @@ once the field map has a web layer created on arconline it is connected to the u
 collect data whcih is then directly linked to the ArcOnline webmap. all of this data can then be uploaded into a Dashboard using the feature layer that is published on the webmap. once on the dashboard there are
 many ways of customizing and statistically analysing the data to suit the users needs in this case I have used  asruvey for dogs but in reality this application can and is used to collect city assets including but not limited to tree data culvert data, road data etc.
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/e6c057d9-2e3a-4185-9de1-753e1ec55bb1)
+>https://www.arcgis.com/apps/dashboards/82be02f27ded4f6f9fdc77b64f83f040
+
 
 
 
