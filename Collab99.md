@@ -37,7 +37,21 @@ We can not agree on how to word the problem statement, we ar not making a data c
 
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/74e31f0f-87a8-4581-9b80-395d338e8eea)
 
+## Adding to website
+# all the parts I contributed to
+- Teams page
+- dashboard application
+- field maps
+- survey 123 connect image and part of description
+- qField
+- Story maps
+- CSS
+  
 Added info for Filed maps and changed some responsive dwsgin aspects for the images
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/51d48d10-f158-4205-9693-bc52f6e93a23)
+
+going through the cloned repository on Visual Studio Code and editing and creating comments for sources where I got my information
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/a42dde13-5016-4d32-a6c7-c441c7ffb97f)
+
 
 
