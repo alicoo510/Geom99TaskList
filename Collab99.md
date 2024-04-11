@@ -53,5 +53,9 @@ Added info for Filed maps and changed some responsive dwsgin aspects for the ima
 going through the cloned repository on Visual Studio Code and editing and creating comments for sources where I got my information
 ![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/a42dde13-5016-4d32-a6c7-c441c7ffb97f)
 
+used the scrolling image gallery from semeter 1 web design group website to insert technology used logos
+![image](https://github.com/alicoo510/Geom99TaskList/assets/146375997/8b082545-0fc0-479c-a965-95888669ec48)
+
+
 
 
